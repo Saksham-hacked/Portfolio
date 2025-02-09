@@ -24,7 +24,7 @@ const About = () => {
       <div className="md:w-2/3 text-left p-6 font-[satoshi]">
         <h2 className="text-3xl font-bold text-white">Saksham Kaushish</h2>
         <p className="text-gray-400 text-lg mt-2">
-          I am a passionate "problem solver".An electrical engineer that
+          I am a passionate "problem solver".An electrical engineer who
           love creating impactful projects and solving real-world problems
           through code.
         </p>
