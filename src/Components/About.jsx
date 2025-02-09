@@ -38,7 +38,12 @@ const About = () => {
         </div>
         <div className="mt-6">
           <h3 className="text-xl font-semibold text-gray-200">Education</h3>
-          <p className="text-gray-400" data-tooltip-id="education">hover to know</p>
+          <p className="text-gray-400 hidden md:block" data-tooltip-id="education">hover to know</p>
+          <p className="text-gray-400 md:hidden">
+            Electrical Engineering - NIT Jalandhar,
+            <br />
+            Delhi Public School, Roorkee - 10+2 (2021)
+          </p>
           <Tooltip id="education" place="top" content="I have done my schooling from DPS roorkee and and now I am at NIT jalandhar pursuing electrical engineering" />
         </div>
         <div className="flex mt-6 space-x-4">

@@ -2,8 +2,8 @@ import { motion } from "framer-motion";
 
 const quotes = [
   "Struggle is beautiful while the sucess is ugly",
-  "The only easy day was yesterday",
-  "Laugh and the world will laugh with you. Weep and you weep alone",
+  "Worry is a misuse of imagination",
+  "Don't look at your feet to see if you are doing it right, Just DANCE ",
   "There is no tommorow",
 ];
 
